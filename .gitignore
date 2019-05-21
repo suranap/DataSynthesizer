@@ -10,3 +10,10 @@ webUI/media/*.csv
 **/db\.sqlite3
 
 **/\.DS_Store
+
+bin/
+etc/
+include/
+lib/
+share/
+pyvenv.cfg
